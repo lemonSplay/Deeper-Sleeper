@@ -1,6 +1,6 @@
 # Deeper Sleeper
 
-A game involving murder, a detective and time loops.
+Try to keep Mai alive as you find out about her past.
 
 ## Technologies used
 
