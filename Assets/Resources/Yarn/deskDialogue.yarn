@@ -1,0 +1,28 @@
+title: EatFood
+tags: 
+colorID: 0
+position: 1105,-346
+---
+<< if $hasFood is true>>
+<< if $eaten is false>> 
+<< if $day is 4>>
+Mie: Eat food...
+<<else>>
+Mie is eating the food.
+<< endif>>
+<< set $eaten to true>>
+<< else>>
+<< if $day is 4>>
+Mie: ...
+<< else>> 
+Mie already ate the food.
+<< endif>>
+<< endif>> 
+<< else >>
+<< if $day is 4>>
+Mie: ...
+<< else >>
+Books are stacked on the desk.
+<<endif>>
+<< endif>>
+===

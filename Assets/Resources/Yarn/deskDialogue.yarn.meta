@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: 51c4d46cbd805904f931cae55c3f11bd
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 94073015eacc34c1d8fc6786e43d60ca, type: 3}
+  baseLanguageID: 
+  stringIDs:
+  - deskDialogue-EatFood-0
+  compilationStatus: 1
+  isSuccesfullyCompiled: 1
+  compilationErrorMessage: 'Error on line 9 at position 1:
+
+    mismatched input
+    ''==='' expecting COMMAND_START
+
+    ===
+
+    ^^^'
+  baseLanguage: {fileID: 7128917941130120860, guid: 51c4d46cbd805904f931cae55c3f11bd,
+    type: 3}
+  localizations: []

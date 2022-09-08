@@ -1,0 +1,25 @@
+title: Sleep
+tags: 
+colorID: 0
+position: 1055,-397
+---
+<< if $eaten is true>>
+
+<< if $day is 4>>
+Mie: ...
+Mie: ......
+<<else>>
+Mie takes some pills and falls asleep.
+<< endif>>
+<< set $day to $day + 1>>
+<< set $eaten to false>>
+<< set $hasFood to false>>
+<< set $dayHasEnded to true>>
+<< else>>
+<< if $day is 4>>
+Mie: ...
+<< else>>
+Mie has to eat before sleeping again.
+<< endif>> 
+<< endif>>
+===

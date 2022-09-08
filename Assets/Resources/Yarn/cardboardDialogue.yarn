@@ -1,0 +1,12 @@
+title: Bag
+tags: 
+colorID: 0
+position: 1055,-396
+---
+<< if $day is 4>>
+Mie: ...
+<< else>>
+Cardboard boxes are laid down on the floor.
+Mie's school back can be seen below.
+<< endif>>
+===

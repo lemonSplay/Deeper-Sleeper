@@ -1,0 +1,2 @@
+E:\UnityProjects\Deep Sleep\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+E:\UnityProjects\Deep Sleep\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache

@@ -1,0 +1,31 @@
+title: GetFood
+tags: 
+colorID: 0
+position: 1155,-296
+---
+<<if $hasFood is false>>
+
+<< if $day is 1>>
+Mie opened the door and grabbed a plate with french fries.
+<< endif>>
+
+<< if $day is 2>>
+Mie opened the door and grabbed a bowl of ramen.
+<< endif>>
+
+<< if $day is 3>>
+Mie unlocked the door and took a bowl of ramen shaped food.
+<< endif>>
+<< if $day is 4>>
+Mie: Unlock Door. Get food. Go to desk.
+<< endif>>
+
+<< set $hasFood to true>> 
+
+<< elseif $eaten is false>>
+Mie already has food.
+Head to the desk to eat it.
+<< else>>
+Mie is not hungry.
+<< endif>>
+===
