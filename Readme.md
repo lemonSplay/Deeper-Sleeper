@@ -1,6 +1,6 @@
 # Deeper Sleeper
 
-Try to keep Mai alive as you find out about her past.
+Try to keep Mai feed as you find out about her past.
 
 ## Technologies used
 
